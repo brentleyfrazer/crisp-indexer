@@ -1,6 +1,17 @@
 # Mrs Crisp: Dynamic E-Prime Semantic Indexer
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Copyright (c) 2017-2026 Dr. Brentley Frazer. All Rights Reserved.
+
+This software and associated documentation files are made available strictly for 
+personal, evaluation, and academic research purposes. 
+
+No commercial use, redistribution, sublicensing, or integration into proprietary 
+or hosted software services is permitted without a separate commercial license 
+granted in writing by the copyright holder.
+
+For commercial inquiries and integration licensing:
+Contact Dr. Brentley Frazer
+
 [![DOI](https://img.shields.io/badge/DOI-10.25904%2F1912%2F527-blue.svg)](https://dx.doi.org/10.25904/1912/527)
 
 A deterministic semantic parser designed to enforce **English Prime (E-Prime)** constraints, eliminate passive copular nominalization, and compute agency metrics for natural language.
