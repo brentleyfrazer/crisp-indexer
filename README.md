@@ -1,4 +1,4 @@
-# Mrs Crisp: Dynamic E-Prime Semantic Indexer
+# MS Crisp: Dynamic E-Prime Semantic Indexer
 
 Copyright (c) 2017-2026 Dr. Brentley Frazer. All Rights Reserved.
 
@@ -28,7 +28,7 @@ Standard English relies heavily on the copula (*to be*), which introduces two st
 
 In human writing, reliance on the copula leads to passive, frozen prose. In generative language models (LLMs), copular predication contributes significantly to **ontological hallucinations**—assigning unjustified truth-values to probabilistic associations.
 
-*Mrs Crisp* enforces active agency by stripping away the copula and evaluating the text along two mathematical vectors:
+*MS Crisp* enforces active agency by stripping away the copula and evaluating the text along two mathematical vectors:
 * **Bourland Crispiness Index ($I_C$)**: The ratio of copula-free sentences to total sentences ($I_C = \frac{S_{\text{crispy}}}{S_{\text{total}}}$).
 * **Copula Density ($D_C$)**: The absolute frequency percentage of copular tokens relative to the total lexicon.
 
