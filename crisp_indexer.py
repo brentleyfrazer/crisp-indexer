@@ -1,5 +1,5 @@
 """
-Mrs Crisp - Semantic & E-Prime Text Indexer
+MS Crisp - Semantic & E-Prime Text Indexer
 Based on research by Dr. Brentley Frazer (Griffith University)
 DOI: 10.25904/1912/527
 """
